@@ -12,3 +12,4 @@ function to call "changeColors()" then input var to give them array in different
 call the function out of the body which is "0" and change the background color through styling CSS.
 To repeatedly perform an action I included "if" statement.
 
+
